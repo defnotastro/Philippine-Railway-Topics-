@@ -1,0 +1,9 @@
+## Introduction
+
+The Philippine railway network consists of two commuter lines provided by the Philippine National Railways (PNR) and three urban mass transit lines operated by the Light Rail Transit Authority and Metro Rail Transit Corporation, all of which are located in Luzon[^1^]. The three urban mass transit lines are LRT 1, LRT 2, and MRT 3. LRT Line 1 travels a north-south route, while LRT Line 2 travels along an east-west route. Both lines have elevated stations, except for the Katipunan station, which is underground[^1^][^2^]. MRT 3, also known as the Yellow Line, has 13 stations along 16.9 kilometers of mostly elevated track in an orbital north-south route[^1^][^3^]. The system uses light rail vehicles, similar to LRT Line 1, except for the Katipunan station, which uses heavy rail metro vehicles[^2^]. The Philippine railway system, including LRT 1, LRT 2, and MRT 3, is an important mode of transportation in the country, especially for commuters in Metro Manila and nearby provinces[^1^][^4^][^5^].
+
+[^1^]: [Wikipedia - Rail transportation in the Philippines](https://en.wikipedia.org/wiki/Rail_transportation_in_the_Philippines)
+[^2^]: [UrbanRail - Manila](https://www.urbanrail.net/as/manila/manila.htm)
+[^3^]: [Wikiwand - Rail transportation in Metro Manila](https://www.wikiwand.com/en/Rail_transportation_in_Metro_Manila)
+[^4^]: [Primer - Your Ultimate Guide to MRT, LRT, and PNR](https://primer.com.ph/tips-guides/your-ultimate-guide-to-mrt-lrt-and-pnr/)
+[^5^]: [Inquirer - MRT 3, LRT 1, LRT 2, PNR resume operations](https://newsinfo.inquirer.net/1109582/mrt-3-lrt-1-lrt-2-pnr-resume-operations)
