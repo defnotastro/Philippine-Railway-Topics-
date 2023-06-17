@@ -6,9 +6,9 @@ Welcome to the Public Transportation Wiki! This wiki serves as a comprehensive r
 
 - [Philippine National Railways (PNR)](https://github.com/defnotastro/philippine-railway/wiki/Philippine-National-Railways): Explore the history, network, and future prospects of the Philippine National Railways.
 
-- [Light Rail Transit Line 1 (LRT-1)]([lrt1.md](https://github.com/defnotastro/philippine-railway/wiki/Light-Rail-Transit---Line-1)): Learn about the route, stations, operations, and future developments of the LRT-1 system.
+- [Light Rail Transit Line 1 (LRT-1)](https://github.com/defnotastro/philippine-railway/wiki/Light-Rail-Transit---Line-1): Learn about the route, stations, operations, and future developments of the LRT-1 system.
 
-- [Light Rail Transit Line 2 (LRT-2)]([lrt2.md](https://github.com/defnotastro/philippine-railway/wiki/Light-Rail-Transit---Line-2)): Discover the route, stations, operations, and future developments of the LRT-2 system.
+- [Light Rail Transit Line 2 (LRT-2)](https://github.com/defnotastro/philippine-railway/wiki/Light-Rail-Transit---Line-2): Discover the route, stations, operations, and future developments of the LRT-2 system.
 
 - [Metro Rail Transit Line 3 (MRT-3)](mrt3.md): Find information on the history, route, stations, services, and future plans of the MRT-3 system.
 
